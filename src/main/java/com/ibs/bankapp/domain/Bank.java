@@ -12,6 +12,7 @@ public class Bank {
     }
 
     public List<Client> getClients() {
+
         return clients;
     }
 }
